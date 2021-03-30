@@ -1,0 +1,1 @@
+This lecture does not contain any file because it's about Git and GitHub.
