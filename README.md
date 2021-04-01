@@ -3,4 +3,4 @@ CS50’s Web Programming with Python and JavaScript (Harvard University course)
 
 (Lectures)
 
-Thiago Mânica Monteiro
+Thiago Mânica Monteiro.
